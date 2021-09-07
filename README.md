@@ -1,3 +1,17 @@
+# Updated Description
+
+###### API
+**Functions**
+```Lua
+MapVote.Start(number VoteTime, boolean AllowCurrentMap, number MapLimit, text MapPrefix)
+```
+```Lua
+MapVote.Cancel()
+```
+
+
+
+# ORIGINAL DESCRIPTION
 MapVote
 =======================
 
