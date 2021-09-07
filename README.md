@@ -1,6 +1,6 @@
 # Updated Description
 
-###### API
+### API
 **Functions**
 ```Lua
 MapVote.Start(number VoteTime, boolean AllowCurrentMap, number MapLimit, text MapPrefix)
