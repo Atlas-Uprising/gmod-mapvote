@@ -1,5 +1,3 @@
-RTV = RTV or {}
-
 RTV.ChatCommands = {
 	
 	"!rtv",
